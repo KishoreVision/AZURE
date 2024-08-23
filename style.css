@@ -1,0 +1,15 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1{
+	text-align: center;
+	color: red;
+}
+h4{
+	text-align: center;
+	color: chocolate;
+}
+p{
+	font-size: 20px;
+	font-family: revert;
+}
